@@ -1,0 +1,174 @@
+"Species","CommonName","a","b","Cryptic","Benthic","Reef","Pelagic","FunctionalGrp","K","Species_corrected","lmax"
+"Abudefduf saxatilis","Sergeant major",0.0227,3.142,TRUE,FALSE,TRUE,FALSE,"Invertivore", ,"Abudefduf saxatilis",22.9
+"Acanthemblemaria aspera","Roughhead blenny",0.0077,2.962,TRUE,TRUE,TRUE,FALSE,"Invertivore", ,"Acanthemblemaria aspera",4
+"Acanthemblemaria maria","Secretary blenny",0.0077,2.962,TRUE,TRUE,FALSE,FALSE,"Planktivore", ,"Acanthemblemaria maria",5.1
+"Acanthocybium solandri","Wahoo",0.0033,3.181,FALSE,FALSE,FALSE,TRUE,"Piscivore", ,"Acanthocybium solandri",250
+"Acanthostracion polygonia","Honeycomb cowfish",0.0517,2.679,FALSE,FALSE,TRUE,FALSE,"Invertivore", ,"Acanthostracion polygonium",50
+"Acanthostracion quadricornis","Scrawled cowfish",0.175,2.25,FALSE,FALSE,TRUE,FALSE,"Invertivore", ,"Acanthostracion quadricornis",55
+"Acanthurus bahianus","Ocean surgeonfish",0.0191,3.08,FALSE,FALSE,TRUE,FALSE,"Herbivore", ,"Acanthurus bahianus",52
+"Acanthurus coeruleus","Blue tang",0.0305,3,FALSE,FALSE,TRUE,FALSE,"Herbivore", ,"Acanthurus coeruleus",39
+"Aluterus scriptus","Scrawled filefish",0.823,1.814,FALSE,FALSE,TRUE,FALSE,"Invertivore", ,"Aluterus scriptus",110
+"Amblycirrhitus pinos","Redspotted hawkfish",0.0026,3.427,TRUE,TRUE,FALSE,FALSE,"Invertivore", ,"Amblycirrhitus pinos",9.5
+"Anisotremus surinamensis","Black margate",0.0233,3.01,FALSE,FALSE,TRUE,TRUE,"Invertivore", ,"Anisotremus surinamensis",76
+"Anisotremus virginicus","Porkfish",0.0148,3.167,FALSE,FALSE,TRUE,TRUE,"Invertivore", ,"Anisotremus virginicus",40.6
+"Apogon binotatus","Barred cardinalfish",0.0158,3.073,TRUE,FALSE,TRUE,FALSE,"Planktivore", ,"Apogon binotatus",13
+"Apogon lachneri","Whitestar cardinalfish",0.0158,3.073,TRUE,FALSE,TRUE,FALSE,"Planktivore", ,"Apogon lachneri",6.5
+"Apogon maculatus","Flamefish",0.0158,3.073,TRUE,FALSE,TRUE,FALSE,"Planktivore", ,"Apogon maculatus",11.1
+"Apogon townsendi","Belted cardinalfish",0.0158,3.073,TRUE,FALSE,TRUE,FALSE,"Planktivore", ,"Apogon townsendi",6.5
+"Aulostomus maculatus","Trumpetfish",0.004,2.865,FALSE,FALSE,TRUE,FALSE,"Piscivore", ,"Aulostomus maculatus",100
+"Balistes vetula","Queen triggerfish",0.0525,2.783,FALSE,FALSE,TRUE,FALSE,"Invertivore", ,"Balistes vetula",60
+"Bodianus rufus","Spanish hogfish",0.0144,3.053,FALSE,FALSE,TRUE,FALSE,"Invertivore", ,"Bodianus rufus",40
+"Bothus lunatus","Peacock flounder",0.0098,3.189,TRUE,TRUE,FALSE,FALSE,"Piscivore", ,"Bothus lunatus",46
+"Bothus ocellatus","Eyed flounder",0.0098,3.189,TRUE,TRUE,FALSE,FALSE,"Invertivore", ,"Bothus ocellatus",18
+"Calamus calamus","Saucereye porgy",0.0429,2.801,FALSE,FALSE,TRUE,FALSE,"Invertivore", ,"Calamus calamus",56
+"Calamus pennatula","Pluma",0.0178,3.11,FALSE,FALSE,TRUE,FALSE,"Invertivore", ,"Calamus pennatula",37
+"Cantherhines macrocerus","Whitespotted filefish",0.0562,2.6534,FALSE,FALSE,TRUE,FALSE,"Invertivore", ,"Cantherhines macrocerus",46
+"Cantherhines pullus","Orangespotted filefish",0.0684,2.5632,FALSE,FALSE,TRUE,FALSE,"Invertivore", ,"Cantherhines pullus",20
+"Canthigaster rostrata","Sharpnose puffer",0.0299,2.979,TRUE,FALSE,FALSE,FALSE,"Invertivore", ,"Canthigaster rostrata",12
+"Caranx bartholomaei","Yellow Jack",0.034,2.84,FALSE,FALSE,TRUE,TRUE,"Piscivore", ,"Caranx bartholomaei",100
+"Caranx crysos","Blue runner",0.0525,2.69,FALSE,FALSE,FALSE,TRUE,"Piscivore", ,"Caranx crysos",70
+"Caranx latus","Horse-eye jack",0.0186,2.8563,FALSE,FALSE,FALSE,TRUE,"Piscivore", ,"Caranx latus",101
+"Caranx ruber","Bar jack",0.018,2.99,FALSE,FALSE,FALSE,TRUE,"Piscivore", ,"Caranx ruber",73
+"Carcharhinus perezi","Caribbean reef shark",0.0271,3,FALSE,FALSE,TRUE,TRUE,"Piscivore", ,"Carcharhinus perezii",300
+"Centropyge argi","Cherubfish",0.0601,2.692,FALSE,TRUE,FALSE,FALSE,"Herbivore", ,"Centropyge argi",8
+"Cephalopholis cruentatus","Graysby",0.0121,3.082,FALSE,FALSE,TRUE,FALSE,"Piscivore",0.34,"Cephalopholis cruentata",42.6
+"Cephalopholis fulvus","Coney",0.0175,3,FALSE,FALSE,TRUE,FALSE,"Piscivore", ,"Cephalopholis fulva",44
+"Chaetodon aculeatus","Longsnout butterflyfish",0.022,3.1897,FALSE,FALSE,TRUE,FALSE,"Invertivore", ,"Prognathodes aculeatus",10
+"Chaetodon capistratus","Foureye butterflyfish",0.022,3.1897,FALSE,FALSE,TRUE,FALSE,"Invertivore", ,"Chaetodon capistratus",15
+"Chaetodon ocellatus","Spotfin butterflyfish",0.0318,2.984,FALSE,FALSE,TRUE,FALSE,"Invertivore", ,"Chaetodon ocellatus",20
+"Chaetodon sedentarius","Reef butterflyfish",0.0252,3.076,FALSE,FALSE,TRUE,FALSE,"Invertivore", ,"Chaetodon sedentarius",15
+"Chaetodon striatus","Banded butterflyfish",0.0222,3.1395,FALSE,FALSE,TRUE,FALSE,"Invertivore", ,"Chaetodon striatus",16
+"Channomuraena vittata","Broadbanded moray",3e-04,3.431,FALSE,FALSE,TRUE,FALSE,"Invertivore", ,"Channomuraena vittata",150
+"Chilomycterus antennatus","Bridled burrfish",0.0236,3.124,FALSE,FALSE,TRUE,FALSE,"Invertivore", ,"Chilomycterus antennatus",38
+"Chilomycterus schoepfi","Striped burrfish",0.0236,3.124,FALSE,FALSE,TRUE,FALSE,"Invertivore", ,"Chilomycterus schoepfii",27.9
+"Chromis cyanea","Blue chromis",0.019,3.24,TRUE,FALSE,FALSE,FALSE,"Planktivore", ,"Azurina cyanea",15
+"Chromis insolata","Sunshinefish",0.019,3.24,TRUE,FALSE,FALSE,FALSE,"Planktivore", ,"Chromis insolata",16
+"Chromis multilineata","Brown chromis",0.019,3.24,TRUE,FALSE,FALSE,FALSE,"Planktivore", ,"Azurina multilineata",20
+"Clepticus parrae","Creole wrasse",0.018,3,FALSE,FALSE,FALSE,TRUE,"Planktivore", ,"Clepticus parrae",30
+"Coryphopterus dicrus","Colon goby",0.0131,2.967,FALSE,TRUE,FALSE,FALSE,"Herbivore", ,"Coryphopterus dicrus",5
+"Coryphopterus eidolon","Pallid goby",0.0131,2.967,FALSE,TRUE,FALSE,FALSE,"Herbivore", ,"Coryphopterus eidolon",6
+"Coryphopterus eidolon","Pallid goby",0.0131,2.967,FALSE,TRUE,FALSE,FALSE,"Herbivore", ,"Coryphopterus eidolon",6
+"Coryphopterus glaucofraenum","Bridled goby",0.0131,2.967,FALSE,TRUE,FALSE,FALSE,"Herbivore", ,"Coryphopterus glaucofraenum",8
+"Coryphopterus hyalinus","Glass goby",0.0131,2.967,FALSE,TRUE,FALSE,FALSE,"Planktivore", ,"Coryphopterus hyalinus",2.5
+"Coryphopterus lipernes","Peppermint goby",0.0131,2.967,FALSE,TRUE,FALSE,FALSE,"Planktivore", ,"Coryphopterus lipernes",3
+"Hypanus americanus","Southern stingray",0.0739,2.81,FALSE,TRUE,FALSE,FALSE,"Invertivore", ,"Hypanus americanus",200
+"Decapterus macarellus","Mackerel scad",0.0078,3.14,FALSE,FALSE,FALSE,TRUE,"Planktivore", ,"Decapterus macarellus",46
+"Diodon holocanthus","Balloonfish",0.0755,2.93,FALSE,FALSE,TRUE,FALSE,"Invertivore", ,"Diodon holocanthus",50
+"Diodon hystrix","Porcupinefish",0.285,2.345,FALSE,FALSE,TRUE,FALSE,"Invertivore", ,"Diodon hystrix",91
+"Echeneis neucratoides","Whitefin sharksucker",0.0042,3,FALSE,FALSE,FALSE,TRUE,"Detritivore", ,"Echeneis neucratoides",75
+"Echidna catenata","Chain moray",3e-04,3.431,FALSE,TRUE,TRUE,FALSE,"Piscivore", ,"Echidna catenata",165
+"Elagatis bipinnulata","Rainbow runner",0.0135,2.92,FALSE,FALSE,FALSE,TRUE,"Invertivore", ,"Elagatis bipinnulata",180
+"Emblemariopsis signifer","Spikefin blenny",0.0077,2.962,FALSE,TRUE,FALSE,FALSE,"Invertivore", ,"Emblemariopsis signifer",3.3
+"Enchelycore nigricans","Viper moray",0.0043,2.876,FALSE,FALSE,TRUE,FALSE,"Piscivore", ,"Enchelycore nigricans",100
+"Enneanectes boehlkei","Roughhead triplefin",0.0142,3.049,FALSE,TRUE,FALSE,FALSE,"Invertivore", ,"Enneanectes boehlkei",4
+"Enneanectes pectoralis","Redeye triplefin",0.0142,3.049,FALSE,TRUE,FALSE,FALSE,"Invertivore", ,"Enneanectes jordani",4
+"Epinephelus guttatus","Red Hind",0.0111,3.1124,FALSE,FALSE,TRUE,FALSE,"Piscivore", ,"Epinephelus guttatus",76
+"Epinephelus striatus","Nassau grouper",0.0065,3.2292,FALSE,FALSE,TRUE,TRUE,"Piscivore", ,"Epinephelus striatus",122
+"Equetus punctatus","Spotted drum",0.0011,3.844,TRUE,FALSE,FALSE,FALSE,"Invertivore", ,"Equetus punctatus",27
+"Gerres cinereus","Yellowfin mojarra",0.0184,3.084,FALSE,TRUE,TRUE,FALSE,"Invertivore", ,"Gerres cinereus",41
+"Ginglymostoma cirratum","Nurse shark",0.0106,2.892,FALSE,TRUE,TRUE,TRUE,"Invertivore", ,"Ginglymostoma cirratum",430
+"Gnatholepis thompsoni","Goldspot goby",0.0035,3.766,FALSE,TRUE,TRUE,FALSE,"Herbivore", ,"Gnatholepis thompsoni",8.2
+"Gobiosoma chancei","Shortstripe goby",0.008,3.137,FALSE,TRUE,TRUE,FALSE,"Invertivore", ,"Elacatinus chancei",5
+"Gobiosoma dilepis","Orangesided goby",0.008,3.137,FALSE,TRUE,TRUE,FALSE,"Invertivore", ,"Tigrigobius dilepis",2.5
+"Gobiosoma evelynae","Sharknose goby",0.008,3.137,FALSE,TRUE,TRUE,FALSE,"Invertivore", ,"Elacatinus evelynae",4
+"Gobiosoma horsti","Yellowline goby",0.008,3.137,FALSE,TRUE,TRUE,FALSE,"Invertivore", ,"Elacatinus horsti",5
+"Gobiosoma prochilos","Broadstripe goby",0.008,3.137,FALSE,TRUE,TRUE,FALSE,"Invertivore", ,"Elacatinus prochilos",4
+"Gobiosoma randalli","Yellownose goby",0.008,3.137,FALSE,TRUE,TRUE,FALSE,"Invertivore", ,"Elacatinus randalli",4.6
+"Gobiosoma xanthiprora","Yellowprow goby",0.008,3.137,FALSE,TRUE,TRUE,FALSE,"Invertivore", ,"Elacatinus xanthiprora",4
+"Gramma loreto","Fairy basslet",0.015,3.05,TRUE,FALSE,FALSE,FALSE,"Planktivore", ,"Gramma loreto",8
+"Gymnothorax funebris","Green moray",0.0041,2.856,TRUE,FALSE,FALSE,FALSE,"Piscivore", ,"Gymnothorax funebris",250
+"Gymnothorax miliaris","Goldentail moray",0.0109,2.574,TRUE,FALSE,FALSE,FALSE,"Piscivore", ,"Gymnothorax miliaris",70
+"Gymnothorax moringa","Spotted moray",3e-04,3.431,TRUE,FALSE,FALSE,FALSE,"Piscivore", ,"Gymnothorax moringa",200
+"Gymnothorax vicinus","Purplemouth moray",0.0043,2.876,TRUE,FALSE,FALSE,FALSE,"Piscivore", ,"Gymnothorax vicinus",132
+"Haemulon album","White margate",0.0167,3.0423,FALSE,FALSE,TRUE,TRUE,"Invertivore", ,"Haemulon album",79
+"Haemulon carbonarium","Caesar grunt",0.0147,3.0559,FALSE,FALSE,TRUE,TRUE,"Invertivore", ,"Haemulon carbonarium",36
+"Haemulon chrysargyreum","Smallmouth grunt",0.3971,2.1567,FALSE,FALSE,TRUE,TRUE,"Invertivore", ,"Brachygenys chrysargyreum",23
+"Haemulon flavolineatum","French grunt",0.0127,3.1581,FALSE,FALSE,TRUE,TRUE,"Invertivore",0.35,"Haemulon flavolineatum",30
+"Haemulon parra","Sailor's choice",0.0199,2.9932,FALSE,FALSE,TRUE,TRUE,"Invertivore", ,"Haemulon parra",41.2
+"Haemulon plumieri","White grunt",0.0121,3.1612,FALSE,FALSE,TRUE,TRUE,"Invertivore", ,"Haemulon plumierii",53
+"Haemulon sciurus","Bluestriped grunt",0.0194,2.9996,FALSE,FALSE,TRUE,TRUE,"Invertivore", ,"Haemulon sciurus",46
+"Halichoeres bivittatus","Slippery dick",0.0105,3.0933,TRUE,FALSE,FALSE,FALSE,"Invertivore", ,"Halichoeres bivittatus",35
+"Halichoeres cyanocephalus","Yellowcheek wrasse",0.0052,3.375,TRUE,FALSE,FALSE,FALSE,"Invertivore", ,"Halichoeres cyanocephalus",30
+"Halichoeres garnoti","Yellowhead wrasse",0.0052,3.375,TRUE,FALSE,FALSE,FALSE,"Invertivore", ,"Halichoeres garnoti",19.3
+"Halichoeres maculipinna","Clown wrasse",0.0028,3.693,TRUE,FALSE,FALSE,FALSE,"Invertivore", ,"Halichoeres maculipinna",18
+"Halichoeres pictus","Rainbow wrasse",0.0095,3.131,TRUE,FALSE,FALSE,FALSE,"Planktivore", ,"Halichoeres pictus",13
+"Halichoeres poeyi","Blackear wrasse",0.0095,3.131,TRUE,FALSE,FALSE,FALSE,"Invertivore", ,"Halichoeres poeyi",20
+"Halichoeres radiatus","Puddingwife",0.131,3.038,FALSE,FALSE,TRUE,FALSE,"Invertivore", ,"Halichoeres radiatus",51
+"Heteroconger longissimus","Brown garden eel",2e-04,3.41,FALSE,TRUE,FALSE,FALSE,"Detritivore", ,"Heteroconger longissimus",51
+"Heteropriacanthus cruentatus","Glasseye snapper",0.0152,3,TRUE,FALSE,FALSE,FALSE,"Invertivore", ,"Heteropriacanthus cruentatus",50.7
+"Hippocampus erectus","Lined seahorse",0.0038,2.94,FALSE,TRUE,TRUE,FALSE,"Invertivore", ,"Hippocampus erectus",19
+"Holacanthus ciliaris","Queen angelfish",0.0337,2.9004,FALSE,FALSE,TRUE,FALSE,"Herbivore", ,"Holacanthus ciliaris",45
+"Holacanthus tricolor","Rock beauty",0.0428,2.8577,FALSE,FALSE,TRUE,FALSE,"Invertivore", ,"Holacanthus tricolor",35
+"Holocentrus adscensionis","Squirrelfish",0.0208,3,TRUE,FALSE,FALSE,FALSE,"Invertivore", ,"Holocentrus adscensionis",61
+"Holocentrus rufus","Longspine squirrelfish",0.0256,2.639,TRUE,FALSE,FALSE,FALSE,"Invertivore", ,"Holocentrus rufus",35
+"Hypoplectrus chlorurus","Yellowtail hamlet",0.009,3.04,TRUE,FALSE,FALSE,FALSE,"Invertivore", ,"Hypoplectrus chlorurus",12.7
+"Hypoplectrus guttavarius","Shy hamlet",0.009,3.04,TRUE,FALSE,FALSE,FALSE,"Invertivore", ,"Hypoplectrus guttavarius",13
+"Hypoplectrus indigo","Indigo hamlet",0.009,3.04,TRUE,FALSE,FALSE,FALSE,"Invertivore", ,"Hypoplectrus indigo",14.3
+"Hypoplectrus nigricans","Black hamlet",0.009,3.04,TRUE,FALSE,FALSE,FALSE,"Invertivore", ,"Hypoplectrus nigricans",15.2
+"Hypoplectrus puella","Barred hamlet",0.009,3.04,TRUE,FALSE,FALSE,FALSE,"Invertivore", ,"Hypoplectrus puella",15.2
+"Hypoplectrus unicolor","Butter hamlet",0.0109,3.182,TRUE,FALSE,FALSE,FALSE,"Invertivore", ,"Hypoplectrus unicolor",12.7
+"Inermia vittata","Boga",0.007,2.94,FALSE,FALSE,FALSE,TRUE,"Planktivore", ,"Haemulon vittatum",23
+"Kyphosus sectatrix","Bermudan chub",0.0174,3.079,FALSE,FALSE,TRUE,TRUE,"Herbivore", ,"Kyphosus sectatrix",76
+"Labrisomus gobio","Palehead blenny",0.0089,3,FALSE,TRUE,FALSE,FALSE,"Invertivore", ,"Gobioclinus gobio",6.5
+"Lachnolaimus maximus","Hogfish",0.0203,2.988,FALSE,FALSE,TRUE,FALSE,"Invertivore", ,"Lachnolaimus maximus",91
+"Lactophrys bicaudalis","Spotted trunkfish",0.117,2.63,FALSE,FALSE,TRUE,FALSE,"Invertivore", ,"Lactophrys bicaudalis",48
+"Lactophrys triqueter","Smooth trunkfish",0.309,2.23,FALSE,FALSE,TRUE,FALSE,"Invertivore", ,"Lactophrys triqueter",47
+"Liopropoma rubre","Peppermint basslet",0.015,3.05,TRUE,FALSE,FALSE,FALSE,"Invertivore", ,"Liopropoma rubre",10
+"Lutjanus analis","Mutton snapper",0.0162,3.0112,FALSE,FALSE,FALSE,TRUE,"Piscivore", ,"Lutjanus analis",94
+"Lutjanus apodus","Schoolmaster snapper",0.0194,2.9779,FALSE,FALSE,FALSE,TRUE,"Piscivore", ,"Lutjanus apodus",79.1
+"Lutjanus griseus","Grey snapper",0.0232,2.8809,FALSE,FALSE,FALSE,TRUE,"Piscivore", ,"Lutjanus griseus",89
+"Lutjanus jocu","Dog snapper",0.0308,2.8574,FALSE,FALSE,FALSE,TRUE,"Piscivore", ,"Lutjanus jocu",128
+"Lutjanus mahogoni","Mahogany snapper",0.0429,2.719,FALSE,FALSE,FALSE,TRUE,"Piscivore", ,"Lutjanus mahogoni",48
+"Lutjanus synagris","Lane snapper",0.0497,2.8,FALSE,FALSE,FALSE,TRUE,"Piscivore", ,"Lutjanus synagris",60
+"Malacanthus plumieri","Sand tilefish",0.0206,2.692,FALSE,TRUE,TRUE,FALSE,"Invertivore", ,"Malacanthus plumieri",70
+"Malacoctenus boehlkei","Diamond blenny",0.0089,3,FALSE,TRUE,TRUE,FALSE,"Invertivore", ,"Malacoctenus boehlkei",6.4
+"Malacoctenus macropus","Rosy blenny",0.0179,2.72,FALSE,TRUE,TRUE,FALSE,"Invertivore", ,"Malacoctenus macropus",5.5
+"Malacoctenus triangulatus","Saddled blenny",0.0089,3,FALSE,TRUE,TRUE,FALSE,"Invertivore", ,"Malacoctenus triangulatus",7.5
+"Melichthys niger","Black durgon",0.0562,2.6534,FALSE,FALSE,FALSE,TRUE,"Herbivore", ,"Melichthys niger",50
+"Micrognathus ensenadae","Harlequin pipefish",0.0434,2.66,FALSE,TRUE,TRUE,FALSE,"Invertivore", ,"Micrognathus crinitus",15
+"Microspathodon chrysurus","Yellowtail damselfish",0.0239,3.0825,TRUE,FALSE,FALSE,FALSE,"Herbivore", ,"Microspathodon chrysurus",21
+"Mulloidichthys martinicus","Yellow goatfish",0.0205,3,FALSE,FALSE,TRUE,FALSE,"Invertivore", ,"Mulloidichthys martinicus",44.8
+"Mycteroperca bonaci","Black grouper",0.0068,3.2051,FALSE,FALSE,FALSE,TRUE,"Piscivore", ,"Mycteroperca bonaci",150
+"Myrichthys breviceps","Sharptail eel",0.0041,2.662,TRUE,FALSE,FALSE,FALSE,"Invertivore", ,"Myrichthys breviceps",102
+"Myripristis jacobus","Blackbar soldierfish",0.111,2.72,TRUE,FALSE,FALSE,FALSE,"Invertivore", ,"Myripristis jacobus",25
+"Neoniphon marianus","Longjaw squirrelfish",0.0216,2.814,TRUE,FALSE,FALSE,FALSE,"Invertivore", ,"Neoniphon marianus",18
+"Ocyurus chrysurus","Yellowtail snapper",0.0405,2.718,FALSE,FALSE,FALSE,TRUE,"Piscivore", ,"Ocyurus chrysurus",86.3
+"Odontoscion dentex","Reef croaker",0.0105,3.007,TRUE,FALSE,FALSE,FALSE,"Invertivore", ,"Odontoscion dentex",30
+"Opistognathus aurifrons","Yellowhead jawfish",0.0153,3,TRUE,FALSE,FALSE,FALSE,"Planktivore", ,"Opistognathus aurifrons",10
+"Paradiplogrammus bairdi","Lancer dragonet",0.0231,3.121,FALSE,TRUE,FALSE,FALSE,"Invertivore", ,"Callionymus bairdi",11.4
+"Paranthias furcifer","Creolefish",0.0135,3.043,FALSE,FALSE,FALSE,TRUE,"Piscivore", ,"Paranthias furcifer",30
+"Pempheris schomburgki","Glassy sweeper",0.0165,3.072,FALSE,FALSE,TRUE,FALSE,"Invertivore", ,"Pempheris schomburgkii",15
+"Plectrypops retrospinis","Cardinal soldierfish",0.111,2.72,TRUE,FALSE,FALSE,FALSE,"Invertivore", ,"Plectrypops retrospinis",15
+"Pomacanthus paru","French angelfish",0.0203,3.1264,FALSE,FALSE,TRUE,TRUE,"Invertivore", ,"Pomacanthus paru",41.1
+"Priolepis hipoliti","Rusty goby",0.0133,3.041,FALSE,TRUE,FALSE,FALSE,"Invertivore", ,"Priolepis hipoliti",4
+"Pseudopeneus maculatus","Spotted goatfish",0.0208,2.958,FALSE,FALSE,TRUE,FALSE,"Invertivore", ,"Pseudupeneus maculatus",30
+"Pterois volitans","Lionfish",2.89e-05,2.89,TRUE,TRUE,TRUE,FALSE,"Invertivore", ,"Pterois volitans",45.7
+"Rypticus saponaceus","Greater soapfish",0.0205,3,TRUE,FALSE,FALSE,FALSE,"Piscivore", ,"Rypticus saponaceus",35
+"Sargocentron vexillarium","Dusky squirrelfish",0.0158,3.051,TRUE,FALSE,FALSE,FALSE,"Invertivore", ,"Neoniphon vexillarium",18
+"Scarus coelestinus","Midnight parrotfish",0.0153,3.0618,FALSE,FALSE,TRUE,TRUE,"Herbivore", ,"Scarus coelestinus",77
+"Scarus iserti","Striped parrotfish",0.0147,3.0548,FALSE,FALSE,TRUE,FALSE,"Herbivore", ,"Scarus iseri",35
+"Scarus taeniopterus","Princess parrotfish",0.0335,2.7086,FALSE,FALSE,TRUE,FALSE,"Herbivore", ,"Scarus taeniopterus",35
+"Scarus vetula","Queen parrotfish",0.025,2.9214,FALSE,FALSE,TRUE,FALSE,"Herbivore", ,"Scarus vetula",61
+"Scomberomorus regalis","Cero",0.0202,2.8,FALSE,FALSE,FALSE,TRUE,"Piscivore", ,"Scomberomorus regalis",183
+"Scorpaena plumieri","Spotted scorpionfish",0.0243,2.949,TRUE,TRUE,FALSE,FALSE,"Piscivore", ,"Scorpaena plumieri",45
+"Scorpaenodes caribbaeus","Reef scorpionfish",0.0243,2.949,TRUE,FALSE,FALSE,FALSE,"Invertivore", ,"Scorpaenodes caribbaeus",12
+"Serranus baldwini","Lantern bass",0.0129,3.036,TRUE,FALSE,FALSE,FALSE,"Invertivore", ,"Serranus baldwini",12
+"Serranus tabacarius","Tobaccofish",0.0145,3.048,TRUE,FALSE,FALSE,FALSE,"Invertivore", ,"Serranus tabacarius",22
+"Sparisoma atomarium","Greenblotch parrotfish",0.0121,3.0275,FALSE,FALSE,TRUE,FALSE,"Herbivore", ,"Sparisoma atomarium",25
+"Sparisoma aurofrenatum","Redband parrotfish",0.0046,3.4291,FALSE,FALSE,TRUE,FALSE,"Herbivore",0.2,"Sparisoma aurofrenatum",28
+"Sparisoma chrysopterum","Redtail parrotfish",0.0099,3.1708,FALSE,FALSE,TRUE,FALSE,"Herbivore", ,"Sparisoma chrysopterum",46
+"Sparisoma viride","Stoplight parrotfish",0.025,2.9214,FALSE,FALSE,TRUE,FALSE,"Herbivore",0.96,"Sparisoma viride",64
+"Sphoeroides spengleri","Bandtail puffer",0.042,2.61,FALSE,FALSE,TRUE,FALSE,"Invertivore", ,"Sphoeroides spengleri",30
+"Sphyraena barracuda","Great barracuda",0.005,3.0825,FALSE,FALSE,FALSE,TRUE,"Piscivore", ,"Sphyraena barracuda",200
+"Sphyraena picudilla","Southern sennet",0.0178,2.72,FALSE,FALSE,FALSE,TRUE,"Piscivore", ,"Sphyraena picudilla",61
+"Stegastes adustus","Dusky damselfish",0.0379,2.857,TRUE,FALSE,FALSE,FALSE,"Herbivore", ,"Stegastes adustus",15
+"Stegastes diencaeus","Longfin damselfish",0.0379,2.857,TRUE,FALSE,FALSE,FALSE,"Herbivore", ,"Stegastes diencaeus",12.5
+"Stegastes leucostictus","Beaugregory",0.0277,2.871,TRUE,FALSE,FALSE,FALSE,"Herbivore", ,"Stegastes leucostictus",10
+"Stegastes partitus","Bicolor damselfish",0.0182,3.152,TRUE,FALSE,FALSE,FALSE,"Herbivore", ,"Stegastes partitus",10
+"Stegastes planifrons","Threespot damsel",0.0379,2.857,TRUE,FALSE,FALSE,FALSE,"Herbivore", ,"Stegastes planifrons",13
+"Stegastes variabilis","Cocoa damselfish",0.0324,2.836,TRUE,FALSE,FALSE,FALSE,"Herbivore", ,"Stegastes variabilis",12.5
+"Syacium micrurum","Channel Flounder",0.0048,3.285,TRUE,TRUE,FALSE,FALSE,"Invertivore", ,"Syacium micrurum",40
+"Synodus intermedius","Sand diver",0.0099,2.999,TRUE,FALSE,FALSE,FALSE,"Piscivore", ,"Synodus intermedius",46
+"Synodus saurus","Bluestriped lizardfish",0.0073,3.024,TRUE,FALSE,FALSE,FALSE,"Piscivore", ,"Synodus saurus",40
+"Thalassoma bifasciatum","Blue headed wrasse",0.0111,3.04,TRUE,FALSE,TRUE,FALSE,"Invertivore",0.75,"Thalassoma bifasciatum",25
+"Urolophus jamaicensis","Yellowspotted stingray",0.0072,3.083,TRUE,FALSE,FALSE,FALSE,"Invertivore", ,"Urobatis jamaicensis",76
