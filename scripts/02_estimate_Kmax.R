@@ -50,17 +50,63 @@ length(unique(bon$Species_corrected)) # 89 sp in WCS - 4 countries
 65/89*100 # 73% needing out of sample preds
 
 # fit xgboost model to predict Kmax
-fishp <- predKmax (bon,
+uvc <- predKmax (bon,
                    dataset = db,
                    fmod = fmod,
                    niter = 1000,
                    return = 'pred')
 
 # save Kmax predictions
-bon <- fishp$pred
+bon <- uvc$pred
 hist(bon$Kmax)
 
-write.csv(bon, 'data/bonaire_kmax_pred.csv')
+##--------------------------------------------------##
+#       4. Predicting individual growth
+##--------------------------------------------------##
 
-## QUERY ALICE 3
 ## Now we need the UVC fish obs in here
+uvc<-read.csv('data/bonaire_uvc.csv') %>% 
+    left_join(bon)
+
+# # Positioning fish in their growth trajectory 
+# # i.e. what's the size they're supposed to have on the next day? 
+uvc$L.1day <- with (uvc, applyVBGF (Lmeas = size2,
+                                        Lmax = lmax,
+                                        Kmax = Kmax))
+
+head(uvc) #each fish has grown a tiny amount (in length).
+
+#Calculate age estimates:
+## 4. productivity equation
+lplus<-function(lmax, Kmax, age, days=1/365){lmax*(1 - exp(-Kmax*(age+days)))} ## Renato approach, VBGF growth based on age
+
+# estimate age of each fish (eq. 3 in Depczynski et al. 2007)
+age_est<-function(lmax, lcensus, K, l0=0){(1/K)*log(lmax/((1-lcensus)*lmax))}
+uvc$age<-age_est(lmax=uvc$lmax, lcensus=uvc$size2/uvc$lmax, K = uvc$Kmax)
+
+# convert length to mass
+uvc$mass<-uvc$a * uvc$size2 ^ uvc$b
+
+## estimate productivity of each fish
+uvc$size_nextday<-with(uvc, 
+                       lplus(lmax = lmax, K = Kmax, age = age ))
+uvc$prod_mass_g<-with(uvc, 
+                      somaGain(a = a, b = b, Lmeas = size2, Lmax = lmax, Kmax = Kmax))
+
+## estimate natural mortality
+uvc$Z<-with(uvc, predM(size2, Kmax = Kmax, Lmax = lmax)) ## estimated mortality rate by species
+uvc$per_capita_mortality<-with(uvc, somaLoss(Z, size2, t = 1)) ## daily per capita loss from natural mortality
+
+# remove mortality from mass gain 
+uvc$prod_mass_g <- uvc$prod_mass_g - uvc$per_capita_mortality
+uvc$prod_mass_g <- ifelse(uvc$prod_mass_g < 0, 0, uvc$prod_mass_g)
+
+uvc<-uvc %>% mutate(
+    prod_cm_day_perfish = size_nextday - size2,
+    prod_g_day = prod_mass_g * count,
+    prod_g_day_ha = prod_g_day * (10000 / transect_area)) ## convert transect to hectare
+
+
+## save and end
+write.csv(bon, 'data/bonaire_kmax_pred.csv')
+save(uvc, file = 'results/bonaire_productivity.rds')
