@@ -1,0 +1,90 @@
+"Species","CommonName","a","b","Cryptic","Benthic","Reef","Pelagic","FunctionalGrp","K","Species_corrected","lmax","trophic_group","sstmean","Kmax","Kmax_lowq","Kmax_uppq"
+"Abudefduf saxatilis","Sergeant major",0.0227,3.142,TRUE,FALSE,TRUE,FALSE,"Invertivore", ,"Abudefduf saxatilis",22.9,"Invertivore",28.4,0.332824289798737,0.298392280936241,0.373511396348476
+"Acanthemblemaria maria","Secretary blenny",0.0077,2.962,TRUE,TRUE,FALSE,FALSE,"Planktivore", ,"Acanthemblemaria maria",5.1,"Planktivore",28.4,1.9730829000473,1.7118262052536,2.29421126842499
+"Acanthostracion polygonia","Honeycomb cowfish",0.0517,2.679,FALSE,FALSE,TRUE,FALSE,"Invertivore", ,"Acanthostracion polygonium",50,"Invertivore",28.4,0.163193836808205,0.149448547512293,0.175363205373287
+"Acanthurus bahianus","Ocean surgeonfish",0.0191,3.08,FALSE,FALSE,TRUE,FALSE,"Herbivore", ,"Acanthurus bahianus",52,"Herbivore",28.4,0.12580268830061,0.113539712503552,0.138201177120209
+"Acanthurus coeruleus","Blue tang",0.0305,3,FALSE,FALSE,TRUE,FALSE,"Herbivore", ,"Acanthurus coeruleus",39,"Herbivore",28.4,0.252107456326485,0.22643693163991,0.27668870985508
+"Aluterus scriptus","Scrawled filefish",0.823,1.814,FALSE,FALSE,TRUE,FALSE,"Invertivore", ,"Aluterus scriptus",110,"Invertivore",28.4,0.064152430742979,0.0555085139349103,0.0728733334690332
+"Amblycirrhitus pinos","Redspotted hawkfish",0.0026,3.427,TRUE,TRUE,FALSE,FALSE,"Invertivore", ,"Amblycirrhitus pinos",9.5,"Invertivore",28.4,0.370120748877525,0.317057624459267,0.440123096108437
+"Anisotremus surinamensis","Black margate",0.0233,3.01,FALSE,FALSE,TRUE,TRUE,"Invertivore", ,"Anisotremus surinamensis",76,"Invertivore",28.4,0.103256173431873,0.0964555125683546,0.110363213345408
+"Apogon binotatus","Barred cardinalfish",0.0158,3.073,TRUE,FALSE,TRUE,FALSE,"Planktivore", ,"Apogon binotatus",13,"Planktivore",28.4,0.291733637452126,0.25383934378624,0.333302937448025
+"Apogon lachneri","Whitestar cardinalfish",0.0158,3.073,TRUE,FALSE,TRUE,FALSE,"Planktivore", ,"Apogon lachneri",6.5,"Planktivore",28.4,1.77160537242889,1.53549718856812,2.06604951620102
+"Apogon maculatus","Flamefish",0.0158,3.073,TRUE,FALSE,TRUE,FALSE,"Planktivore", ,"Apogon maculatus",11.1,"Planktivore",28.4,0.294328972697258,0.254190340638161,0.346164166927338
+"Apogon townsendi","Belted cardinalfish",0.0158,3.073,TRUE,FALSE,TRUE,FALSE,"Planktivore", ,"Apogon townsendi",6.5,"Planktivore",28.4,1.77160537242889,1.53549718856812,2.06604951620102
+"Aulostomus maculatus","Trumpetfish",0.004,2.865,FALSE,FALSE,TRUE,FALSE,"Piscivore", ,"Aulostomus maculatus",100,"Piscivore",28.4,0.0937925167381763,0.0865285899490118,0.101447204127908
+"Bodianus rufus","Spanish hogfish",0.0144,3.053,FALSE,FALSE,TRUE,FALSE,"Invertivore", ,"Bodianus rufus",40,"Invertivore",28.4,0.199400790035725,0.184491120278835,0.216657102108002
+"Cantherhines macrocerus","Whitespotted filefish",0.0562,2.6534,FALSE,FALSE,TRUE,FALSE,"Invertivore", ,"Cantherhines macrocerus",46,"Invertivore",28.4,0.197016395628452,0.180135820060968,0.215929504483938
+"Canthigaster rostrata","Sharpnose puffer",0.0299,2.979,TRUE,FALSE,FALSE,FALSE,"Invertivore", ,"Canthigaster rostrata",12,"Invertivore",28.4,0.353272214531898,0.30612774938345,0.405870072543621
+"Caranx latus","Horse-eye jack",0.0186,2.8563,FALSE,FALSE,FALSE,TRUE,"Piscivore", ,"Caranx latus",101,"Piscivore",28.4,0.0978788398206234,0.0891186539083719,0.106882393360138
+"Caranx ruber","Bar jack",0.018,2.99,FALSE,FALSE,FALSE,TRUE,"Piscivore", ,"Caranx ruber",73,"Piscivore",28.4,0.122809302061796,0.104595102369785,0.141053933650255
+"Centropyge argi","Cherubfish",0.0601,2.692,FALSE,TRUE,FALSE,FALSE,"Herbivore", ,"Centropyge argi",8,"Herbivore",28.4,1.29555374383926,1.09822863340378,1.51711711287498
+"Cephalopholis cruentatus","Graysby",0.0121,3.082,FALSE,FALSE,TRUE,FALSE,"Piscivore",0.34,"Cephalopholis cruentata",42.6,"Piscivore",28.4,0.15729808062315,0.14330667257309,0.170617822557688
+"Cephalopholis fulvus","Coney",0.0175,3,FALSE,FALSE,TRUE,FALSE,"Piscivore", ,"Cephalopholis fulva",44,"Piscivore",28.4,0.143635652959347,0.128357391804457,0.158742878586054
+"Chaetodon capistratus","Foureye butterflyfish",0.022,3.1897,FALSE,FALSE,TRUE,FALSE,"Invertivore", ,"Chaetodon capistratus",15,"Invertivore",28.4,0.347135454416275,0.305695943534374,0.398218609392643
+"Chaetodon striatus","Banded butterflyfish",0.0222,3.1395,FALSE,FALSE,TRUE,FALSE,"Invertivore", ,"Chaetodon striatus",16,"Invertivore",28.4,0.189609929919243,0.165763020515442,0.215993296355009
+"Chromis cyanea","Blue chromis",0.019,3.24,TRUE,FALSE,FALSE,FALSE,"Planktivore", ,"Azurina cyanea",15,"Planktivore",28.4,0.308166578412056,0.267354249954224,0.355464778840542
+"Chromis multilineata","Brown chromis",0.019,3.24,TRUE,FALSE,FALSE,FALSE,"Planktivore", ,"Azurina multilineata",20,"Planktivore",28.4,0.290534153580666,0.259910516440868,0.330232799053192
+"Clepticus parrae","Creole wrasse",0.018,3,FALSE,FALSE,FALSE,TRUE,"Planktivore", ,"Clepticus parrae",30,"Planktivore",28.4,0.260225504636765,0.235911771655083,0.29118000715971
+"Coryphopterus dicrus","Colon goby",0.0131,2.967,FALSE,TRUE,FALSE,FALSE,"Herbivore", ,"Coryphopterus dicrus",5,"Herbivore",28.4,1.78611820936203,1.5273585319519,2.05599635839462
+"Coryphopterus glaucofraenum","Bridled goby",0.0131,2.967,FALSE,TRUE,FALSE,FALSE,"Herbivore", ,"Coryphopterus glaucofraenum",8,"Herbivore",28.4,1.29555374383926,1.09822863340378,1.51711711287498
+"Coryphopterus hyalinus","Glass goby",0.0131,2.967,FALSE,TRUE,FALSE,FALSE,"Planktivore", ,"Coryphopterus hyalinus",2.5,"Planktivore",28.4,7.21793556213379,6.24534487724304,8.17601895332336
+"Coryphopterus lipernes","Peppermint goby",0.0131,2.967,FALSE,TRUE,FALSE,FALSE,"Planktivore", ,"Coryphopterus lipernes",3,"Planktivore",28.4,6.60588073730469,5.79190576076508,7.53684556484222
+"Diodon hystrix","Porcupinefish",0.285,2.345,FALSE,FALSE,TRUE,FALSE,"Invertivore", ,"Diodon hystrix",91,"Invertivore",28.4,0.0667265392839909,0.0607673693448305,0.0739371199160814
+"Gerres cinereus","Yellowfin mojarra",0.0184,3.084,FALSE,TRUE,TRUE,FALSE,"Invertivore", ,"Gerres cinereus",41,"Invertivore",28.4,0.211889393627644,0.194230739027262,0.229681920260191
+"Gnatholepis thompsoni","Goldspot goby",0.0035,3.766,FALSE,TRUE,TRUE,FALSE,"Herbivore", ,"Gnatholepis thompsoni",8.2,"Herbivore",28.4,1.29773151874542,1.09990260004997,1.51396816968918
+"Gobiosoma evelynae","Sharknose goby",0.008,3.137,FALSE,TRUE,TRUE,FALSE,"Invertivore", ,"Elacatinus evelynae",4,"Invertivore",28.4,3.72823083400726,3.13701051473618,4.39166927337646
+"Gobiosoma horsti","Yellowline goby",0.008,3.137,FALSE,TRUE,TRUE,FALSE,"Invertivore", ,"Elacatinus horsti",5,"Invertivore",28.4,1.46399414539337,1.23081931471825,1.7276725769043
+"Gobiosoma randalli","Yellownose goby",0.008,3.137,FALSE,TRUE,TRUE,FALSE,"Invertivore", ,"Elacatinus randalli",4.6,"Invertivore",28.4,1.55286520719528,1.31894773244858,1.84605965018272
+"Gramma loreto","Fairy basslet",0.015,3.05,TRUE,FALSE,FALSE,FALSE,"Planktivore", ,"Gramma loreto",8,"Planktivore",28.4,1.44114297628403,1.24491176009178,1.68692734837532
+"Gymnothorax funebris","Green moray",0.0041,2.856,TRUE,FALSE,FALSE,FALSE,"Piscivore", ,"Gymnothorax funebris",250,"Piscivore",28.4,0.0891174525022507,0.081830682232976,0.0959223881363869
+"Gymnothorax miliaris","Goldentail moray",0.0109,2.574,TRUE,FALSE,FALSE,FALSE,"Piscivore", ,"Gymnothorax miliaris",70,"Piscivore",28.4,0.193018779158592,0.177844647318125,0.209601480513811
+"Gymnothorax moringa","Spotted moray",3e-04,3.431,TRUE,FALSE,FALSE,FALSE,"Piscivore", ,"Gymnothorax moringa",200,"Piscivore",28.4,0.0612496472895145,0.056207119487226,0.0663864240050316
+"Haemulon carbonarium","Caesar grunt",0.0147,3.0559,FALSE,FALSE,TRUE,TRUE,"Invertivore", ,"Haemulon carbonarium",36,"Invertivore",28.4,0.296810582280159,0.273312196135521,0.324948854744434
+"Haemulon chrysargyreum","Smallmouth grunt",0.3971,2.1567,FALSE,FALSE,TRUE,TRUE,"Invertivore", ,"Brachygenys chrysargyreum",23,"Invertivore",28.4,0.33035035431385,0.295391120016575,0.370402827858925
+"Haemulon flavolineatum","French grunt",0.0127,3.1581,FALSE,FALSE,TRUE,TRUE,"Invertivore",0.35,"Haemulon flavolineatum",30,"Invertivore",28.4,0.206275880336761,0.193614430725574,0.222766030579805
+"Haemulon sciurus","Bluestriped grunt",0.0194,2.9996,FALSE,FALSE,TRUE,TRUE,"Invertivore", ,"Haemulon sciurus",46,"Invertivore",28.4,0.197016395628452,0.180135820060968,0.215929504483938
+"Halichoeres garnoti","Yellowhead wrasse",0.0052,3.375,TRUE,FALSE,FALSE,FALSE,"Invertivore", ,"Halichoeres garnoti",19.3,"Invertivore",28.4,0.323759123682976,0.291818544268608,0.361314088106155
+"Halichoeres pictus","Rainbow wrasse",0.0095,3.131,TRUE,FALSE,FALSE,FALSE,"Planktivore", ,"Halichoeres pictus",13,"Planktivore",28.4,0.291733637452126,0.25383934378624,0.333302937448025
+"Heteropriacanthus cruentatus","Glasseye snapper",0.0152,3,TRUE,FALSE,FALSE,FALSE,"Invertivore", ,"Heteropriacanthus cruentatus",50.7,"Invertivore",28.4,0.182351402938366,0.168811567127705,0.19647866114974
+"Holacanthus ciliaris","Queen angelfish",0.0337,2.9004,FALSE,FALSE,TRUE,FALSE,"Herbivore", ,"Holacanthus ciliaris",45,"Herbivore",28.4,0.163197979331017,0.149051323533058,0.176520522683859
+"Holacanthus tricolor","Rock beauty",0.0428,2.8577,FALSE,FALSE,TRUE,FALSE,"Invertivore", ,"Holacanthus tricolor",35,"Invertivore",28.4,0.286939010024071,0.261831484735012,0.31073584407568
+"Holocentrus adscensionis","Squirrelfish",0.0208,3,TRUE,FALSE,FALSE,FALSE,"Invertivore", ,"Holocentrus adscensionis",61,"Invertivore",28.4,0.161796264350414,0.144636813551188,0.18146326392889
+"Hypoplectrus chlorurus","Yellowtail hamlet",0.009,3.04,TRUE,FALSE,FALSE,FALSE,"Invertivore", ,"Hypoplectrus chlorurus",12.7,"Invertivore",28.4,0.284576579928398,0.253405086696148,0.319445610046387
+"Hypoplectrus puella","Barred hamlet",0.009,3.04,TRUE,FALSE,FALSE,FALSE,"Invertivore", ,"Hypoplectrus puella",15.2,"Invertivore",28.4,0.353070765733719,0.311047546565533,0.405352607369423
+"Hypoplectrus unicolor","Butter hamlet",0.0109,3.182,TRUE,FALSE,FALSE,FALSE,"Invertivore", ,"Hypoplectrus unicolor",12.7,"Invertivore",28.4,0.284576579928398,0.253405086696148,0.319445610046387
+"Inermia vittata","Boga",0.007,2.94,FALSE,FALSE,FALSE,TRUE,"Planktivore", ,"Haemulon vittatum",23,"Planktivore",28.4,0.350016385316849,0.306684575974941,0.398704811930656
+"Lachnolaimus maximus","Hogfish",0.0203,2.988,FALSE,FALSE,TRUE,FALSE,"Invertivore", ,"Lachnolaimus maximus",91,"Invertivore",28.4,0.0667265392839909,0.0607673693448305,0.0739371199160814
+"Lactophrys bicaudalis","Spotted trunkfish",0.117,2.63,FALSE,FALSE,TRUE,FALSE,"Invertivore", ,"Lactophrys bicaudalis",48,"Invertivore",28.4,0.203804798424244,0.182049553841352,0.226697843521833
+"Lactophrys triqueter","Smooth trunkfish",0.309,2.23,FALSE,FALSE,TRUE,FALSE,"Invertivore", ,"Lactophrys triqueter",47,"Invertivore",28.4,0.20786889642477,0.185861133038998,0.228007946163416
+"Liopropoma rubre","Peppermint basslet",0.015,3.05,TRUE,FALSE,FALSE,FALSE,"Invertivore", ,"Liopropoma rubre",10,"Invertivore",28.4,0.383671835064888,0.323894128203392,0.447772391140461
+"Lutjanus apodus","Schoolmaster snapper",0.0194,2.9779,FALSE,FALSE,FALSE,TRUE,"Piscivore", ,"Lutjanus apodus",79.1,"Piscivore",28.4,0.144909642636776,0.130301143974066,0.160704601556063
+"Lutjanus griseus","Grey snapper",0.0232,2.8809,FALSE,FALSE,FALSE,TRUE,"Piscivore", ,"Lutjanus griseus",89,"Piscivore",28.4,0.0678431466221809,0.0606225375086069,0.0759345460683107
+"Lutjanus mahogoni","Mahogany snapper",0.0429,2.719,FALSE,FALSE,FALSE,TRUE,"Piscivore", ,"Lutjanus mahogoni",48,"Piscivore",28.4,0.215972431004047,0.189689036458731,0.242921210825443
+"Melichthys niger","Black durgon",0.0562,2.6534,FALSE,FALSE,FALSE,TRUE,"Herbivore", ,"Melichthys niger",50,"Herbivore",28.4,0.181455157697201,0.164785053580999,0.200187206268311
+"Microspathodon chrysurus","Yellowtail damselfish",0.0239,3.0825,TRUE,FALSE,FALSE,FALSE,"Herbivore", ,"Microspathodon chrysurus",21,"Herbivore",28.4,0.315579697489738,0.284239195287228,0.349974751472473
+"Mulloidichthys martinicus","Yellow goatfish",0.0205,3,FALSE,FALSE,TRUE,FALSE,"Invertivore", ,"Mulloidichthys martinicus",44.8,"Invertivore",28.4,0.177247643470764,0.165193159133196,0.192149613052607
+"Myrichthys breviceps","Sharptail eel",0.0041,2.662,TRUE,FALSE,FALSE,FALSE,"Invertivore", ,"Myrichthys breviceps",102,"Invertivore",28.4,0.105957005172968,0.0968388002365828,0.116845080628991
+"Myripristis jacobus","Blackbar soldierfish",0.111,2.72,TRUE,FALSE,FALSE,FALSE,"Invertivore", ,"Myripristis jacobus",25,"Invertivore",28.4,0.192112572491169,0.174895074218512,0.211107727140188
+"Neoniphon marianus","Longjaw squirrelfish",0.0216,2.814,TRUE,FALSE,FALSE,FALSE,"Invertivore", ,"Neoniphon marianus",18,"Invertivore",28.4,0.186257660388947,0.162926945835352,0.213775806128979
+"Ocyurus chrysurus","Yellowtail snapper",0.0405,2.718,FALSE,FALSE,FALSE,TRUE,"Piscivore", ,"Ocyurus chrysurus",86.3,"Piscivore",28.4,0.0943518094718456,0.0827094204723835,0.106531811878085
+"Paranthias furcifer","Creolefish",0.0135,3.043,FALSE,FALSE,FALSE,TRUE,"Piscivore", ,"Paranthias furcifer",30,"Piscivore",28.4,0.209547013044357,0.192688446491957,0.226962000131607
+"Pomacanthus paru","French angelfish",0.0203,3.1264,FALSE,FALSE,TRUE,TRUE,"Invertivore", ,"Pomacanthus paru",41.1,"Invertivore",28.4,0.202814973890781,0.188205134123564,0.219664998352528
+"Rypticus saponaceus","Greater soapfish",0.0205,3,TRUE,FALSE,FALSE,FALSE,"Piscivore", ,"Rypticus saponaceus",35,"Piscivore",28.4,0.310713917016983,0.282655619084835,0.341981984674931
+"Sargocentron vexillarium","Dusky squirrelfish",0.0158,3.051,TRUE,FALSE,FALSE,FALSE,"Invertivore", ,"Neoniphon vexillarium",18,"Invertivore",28.4,0.186257660388947,0.162926945835352,0.213775806128979
+"Scarus coelestinus","Midnight parrotfish",0.0153,3.0618,FALSE,FALSE,TRUE,TRUE,"Herbivore", ,"Scarus coelestinus",77,"Herbivore",28.4,0.0973396971821785,0.0877570547163486,0.107837999239564
+"Scarus iserti","Striped parrotfish",0.0147,3.0548,FALSE,FALSE,TRUE,FALSE,"Herbivore", ,"Scarus iseri",35,"Herbivore",28.4,0.301039159297943,0.275139816105366,0.330672480165958
+"Scarus taeniopterus","Princess parrotfish",0.0335,2.7086,FALSE,FALSE,TRUE,FALSE,"Herbivore", ,"Scarus taeniopterus",35,"Herbivore",28.4,0.301039159297943,0.275139816105366,0.330672480165958
+"Scarus vetula","Queen parrotfish",0.025,2.9214,FALSE,FALSE,TRUE,FALSE,"Herbivore", ,"Scarus vetula",61,"Herbivore",28.4,0.187491297721863,0.170628968626261,0.207312222570181
+"Scorpaena plumieri","Spotted scorpionfish",0.0243,2.949,TRUE,TRUE,FALSE,FALSE,"Piscivore", ,"Scorpaena plumieri",45,"Piscivore",28.4,0.138260625302792,0.124229315668344,0.154530450701714
+"Sparisoma aurofrenatum","Redband parrotfish",0.0046,3.4291,FALSE,FALSE,TRUE,FALSE,"Herbivore",0.2,"Sparisoma aurofrenatum",28,"Herbivore",28.4,0.264250338077545,0.236807212233543,0.296568803489208
+"Sparisoma chrysopterum","Redtail parrotfish",0.0099,3.1708,FALSE,FALSE,TRUE,FALSE,"Herbivore", ,"Sparisoma chrysopterum",46,"Herbivore",28.4,0.21844295412302,0.19813285395503,0.241661231964827
+"Sparisoma viride","Stoplight parrotfish",0.025,2.9214,FALSE,FALSE,TRUE,FALSE,"Herbivore",0.96,"Sparisoma viride",64,"Herbivore",28.4,0.208140462636948,0.186717517673969,0.231956232339144
+"Sphyraena barracuda","Great barracuda",0.005,3.0825,FALSE,FALSE,FALSE,TRUE,"Piscivore", ,"Sphyraena barracuda",200,"Piscivore",28.4,0.0612496472895145,0.056207119487226,0.0663864240050316
+"Stegastes adustus","Dusky damselfish",0.0379,2.857,TRUE,FALSE,FALSE,FALSE,"Herbivore", ,"Stegastes adustus",15,"Herbivore",28.4,0.364595040678978,0.323821716010571,0.418059155344963
+"Stegastes diencaeus","Longfin damselfish",0.0379,2.857,TRUE,FALSE,FALSE,FALSE,"Herbivore", ,"Stegastes diencaeus",12.5,"Herbivore",28.4,0.404610469937325,0.355248361825943,0.45881549268961
+"Stegastes leucostictus","Beaugregory",0.0277,2.871,TRUE,FALSE,FALSE,FALSE,"Herbivore", ,"Stegastes leucostictus",10,"Herbivore",28.4,0.488467633724213,0.419329881668091,0.566781833767891
+"Stegastes partitus","Bicolor damselfish",0.0182,3.152,TRUE,FALSE,FALSE,FALSE,"Herbivore", ,"Stegastes partitus",10,"Herbivore",28.4,0.488467633724213,0.419329881668091,0.566781833767891
+"Stegastes planifrons","Threespot damsel",0.0379,2.857,TRUE,FALSE,FALSE,FALSE,"Herbivore", ,"Stegastes planifrons",13,"Herbivore",28.4,0.355809837579727,0.316356137394905,0.399268858134747
+"Stegastes variabilis","Cocoa damselfish",0.0324,2.836,TRUE,FALSE,FALSE,FALSE,"Herbivore", ,"Stegastes variabilis",12.5,"Herbivore",28.4,0.404610469937325,0.355248361825943,0.45881549268961
+"Synodus intermedius","Sand diver",0.0099,2.999,TRUE,FALSE,FALSE,FALSE,"Piscivore", ,"Synodus intermedius",46,"Piscivore",28.4,0.191743865609169,0.170167792588472,0.216477997601032
+"Thalassoma bifasciatum","Blue headed wrasse",0.0111,3.04,TRUE,FALSE,TRUE,FALSE,"Invertivore",0.75,"Thalassoma bifasciatum",25,"Invertivore",28.4,0.192112572491169,0.174895074218512,0.211107727140188
